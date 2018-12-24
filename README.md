@@ -17,9 +17,9 @@ This is a reference for daily work with python
 - Tuple
   - 不可修改的列表。vowels = ('a', 'o', 'e', 'i', 'u')
   - 只有一个对象的元组. t = ('python',) 逗号是必须的，否则会被看作一个字符串，而不是元组。
-  - 嵌套字典（也就是表）
-    - 访问某个值：people['ford'] = {'Name':'Ford', 'Gender':'Male'}, people['ford']['Name']
-    - 漂亮打印：pprint(pretty print): import pprint, pprint.pprint(people)
+- 嵌套字典（也就是表）
+  - 访问某个值：people['ford'] = {'Name':'Ford', 'Gender':'Male'}, people['ford']['Name']
+  - 漂亮打印：pprint(pretty print): import pprint, pprint.pprint(people)
 ## Code reuse
 - Function
   - def, return, docstring(三重引号包围的字符串）. help(functionname) will show the docstring.
