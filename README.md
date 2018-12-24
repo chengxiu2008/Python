@@ -20,5 +20,15 @@ This is a reference for daily work with python
  - 嵌套字典（也就是表）
   - people['ford'] = {'Name':'Ford', 'Gender':'Male'}, people['ford']['Name']
   - pprint(pretty print): import pprint, pprint.pprint(people)
+## Code reuse
+- Function
+  - def, return, docstring(三重引号包围的字符串）. help(functionname) will show the docstring.
+  - PEP: Python Enahncement Protocol。 Python增强协议，python代码的最佳实践。https://www.python.org/dev/peps/
+  - 位置赋值和关键字赋值
+- Module
+  - 解释器会在3个主要位置搜索模块：
+    - 你的当前工作目录
+    - 你的解释器的site-packages位置
+    - 标准库位置
   
 
