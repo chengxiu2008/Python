@@ -24,6 +24,7 @@ This is a reference for daily work with python
 - Function
   - def, return, docstring(三重引号包围的字符串）. help(functionname) will show the docstring.
   - PEP: Python Enahncement Protocol。 Python增强协议，python代码的最佳实践。https://www.python.org/dev/peps/
+  - 安装pytest模块和pep8模块，然后检测代码是否符合PEP 8标准
   - 位置赋值和关键字赋值
 - Module
   - 解释器会在3个主要位置搜索模块：
