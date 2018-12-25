@@ -37,4 +37,11 @@ This is a reference for daily work with python
   - Python：函数参数语义即支持按值调用也支持按引用调用。可以看成是对象引用。
     - 如果变量指示一个可变的值，就按引用调用语义。
     - 如果变量指示一个不可变得类型，就按值调用语义。
+## Web
+- Flask: light web应用框架, python的第三方模块。 
+- Django: python web 框架之母
+- __name__: dunder name。python解释器维护的值， 在程序中的任何地方使用这个值时，都会设置为当前活动模块的名字。
+- @： decorator，函数修饰符。可以调整一个现有函数的行为，而无需修改这个函数的代码。
+
+
 
